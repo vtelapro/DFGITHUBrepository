@@ -1,0 +1,12 @@
+{
+	"name": "integrationRuntime1",
+	"properties": {
+		"type": "SelfHosted",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/e1208cf3-f425-45c7-a370-c53f134c8608/resourcegroups/DFdemoRG/providers/Microsoft.DataFactory/factories/practiceDFforPyspark/integrationruntimes/integrationRuntime1",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
